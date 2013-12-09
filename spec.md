@@ -1,3 +1,5 @@
+Version: 0.0.1 completely speculative
+
 INTRODUCTION
 
 Throughout this document, we will use the following conventions to indicate our special characters:
